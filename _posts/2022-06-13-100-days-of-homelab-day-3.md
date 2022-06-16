@@ -14,9 +14,9 @@ I would like to run my own email server, but after talking with others, the typi
 
 Perhaps later on during the challenge we can revisit that part of my To-Do List and see if we can improve it.
 
-* [COMPLETE] Setup/Establish github pages for hyperionmedia.us
-* [COMPLETE] Setup and Learn Jekyll Static Site following @technotim\'s Latest Video
-* [COMPLETE] Research/Setup hyperionmedia.us email server
+* **[COMPLETE]** Setup/Establish github pages for hyperionmedia.us
+* **[COMPLETE]** Setup and Learn Jekyll Static Site following @technotim\'s Latest Video
+* **[COMPLETE]** Research/Setup hyperionmedia.us email server
 
 ## Potential Day 4 Timeline
 * Practice/Learn Jekyl by utilizing VSCode to input some post into the website

@@ -7,9 +7,9 @@ tags: [Windows Terminal,WSL,Ubuntu,ZSH,Oh My ZSH,yarn,NPM,NVM,NodeJS,VSCode,100D
 
 # DAY 2
 
-Day 2 Started off pretty good.  Had a few hickups with Pi-Hole blocking the Microsoft Store which slowed down getting VSCode and the Microsoft WSL Setup while following @technotim's video https://docs.technotim.live/posts/windows-developer-setup/ 
+Day 2 Started off pretty good.  Had a few hickups with Pi-Hole blocking the Microsoft Store which slowed down getting VSCode and the Microsoft WSL Setup while following @technotim\'s video https://docs.technotim.live/posts/windows-developer-setup/ 
 
-* [COMPLETE] Setup a coding environment on my windows machine to be able to code/utilize github
+* **[COMPLETE]** Setup a coding environment on my windows machine to be able to code/utilize github
 
 ## Potential Day 3 Timeline
 

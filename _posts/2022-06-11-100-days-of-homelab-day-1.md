@@ -9,7 +9,7 @@ tags: [Cloudflare,Porkbun,hyperionmedia.us,100DaysofHomeLab]
 
 So Day 1 was more of a combination of 3 days of things so I could get a domain up and running and Jekyll Setup.  Thankfully it wasn\'t to bad
 
-* [COMPLETE] Setup/Register Domain (hyperionmedia.us)
+* **[COMPLETE]** Setup/Register Domain (hyperionmedia.us)
 
 ## Potential Day 2 Timeline
 

@@ -1,5 +1,5 @@
 ---
-title: Documentation - My Notepad
+title: Documentation - Jekyll Chirp and ImageGallery
 date: 2022-6-16 12:50:00 -500
 categories: [homelab,documentation]
 tags: [github,Jekyll]

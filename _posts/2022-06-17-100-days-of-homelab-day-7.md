@@ -15,4 +15,4 @@ With the help of iLude, jacobs, projectdp and Thunderfoot from TechnoTim\'s i\'v
 
 ## Potential Day 8 Timeline
 * Figure out how to add the Vault tab to my navigation pane on the Jekyll-Chirpy theme
-* Built my new desk from the 6\' Butcher Block Counter Top I recently purchased
+* Build my new desk from the 6\' Butcher Block Counter Top I recently purchased

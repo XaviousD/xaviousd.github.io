@@ -1,6 +1,6 @@
 ---
-layout: tags
-title: Tags
-icon: fas fa-tag
+layout: vault
+title: Image Vault
+icon: fas fa-archive
 order: 3
 ---

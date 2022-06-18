@@ -9,7 +9,7 @@ pin: true
 
 # Random Notes - My Notepad
 
-I'm completely new to most of the things i'm working on in my homelab.  This is just my virtual notepad.  Its strickly for me to keep snippets of information to reference.  
+I\'m completely new to most of the things i\'m working on in my homelab.  This is just my virtual notepad.  Its strickly for me to keep snippets of information to reference.  
 \----
 
 Launch Jekyll Locally

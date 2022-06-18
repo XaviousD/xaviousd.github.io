@@ -8,7 +8,7 @@ tags: [github,hyperionmedia.us,Jekyll,VSCode,100DaysofHomeLab]
 
 # DAY 4
 
-Day 4 is the day I lost more hair.  After a long night of sitting at my work desk doing absolutely nothing due to IT Issues 7am came and I went to sleep.  Woke up, called ITSupport and got that working after a few outers.  I've managed to get up to this entry in the Blog.  Haven't published out to the website but the day is young.
+Day 4 is the day I lost more hair.  After a long night of sitting at my work desk doing absolutely nothing due to IT Issues 7am came and I went to sleep.  Woke up, called ITSupport and got that working after a few outers.  I\'ve managed to get up to this entry in the Blog.  Haven\'t published out to the website but the day is young.
 
 * **[COMPLETE]** Practice/Learn Jekyl by utilizing VSCode to input some post into the website
 * **[COMPLETE]** Enter All previous Post for the 100 Days of Homelab Challenge

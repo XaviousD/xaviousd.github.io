@@ -10,7 +10,7 @@ tags: [github,Jekyll,VSCode,ggreer,hyperionmedia.us,100DaysofHomeLab]
 
 Played around with Jekyll-Chirpy a bit and I\'ve got the image-gallery working with the /vault/ url.  However the index.html file is being repleaced by a generic one that jekyll builds instead of the image-gallery one.  It has somethign to do with the templates but I can\'t figure out how/where to modify these. 
 
-For now i\'m putting this as a 3/4 complete.  I'll come back to it at a later date.
+For now i\'m putting this as a 3/4 complete.  I\'ll come back to it at a later date.
 
 * **[COMPLETE]** Implement ggreer\'s gallery into the Jekyll-Chirpy theme.
 * **[COMPLETE]** Figure out how to add in a \'Image Vault\' Navigation Tab to the SideBar within Chirpy.  

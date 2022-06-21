@@ -14,7 +14,7 @@ Well, Sunday was horrible.  Air conditioner went out.  North Dakoka like most of
 
 So, managed to the theRack back up and running.  After the misreable day yesterday/last night, I decided to just chalk today up to a breather.
 
-* **[COMPLETE]** Adjustest VM's for OPNSense and Pi-Hole to Auto-Start on Proxmox Boot.  Should resolve any future issues relating to restarting/cycle power etc and not having connectivity.
+* **[COMPLETE]** Adjustest VM\'s for OPNSense and Pi-Hole to Auto-Start on Proxmox Boot.  Should resolve any future issues relating to restarting/cycle power etc and not having connectivity.
 * **[INPROGRESS]** Replace Dell r210ii with Dell r220.  Was delivered today, and 32gb ECC 1600 Ram is due in Friday.
 
 ## Potential Day 11 Timeline

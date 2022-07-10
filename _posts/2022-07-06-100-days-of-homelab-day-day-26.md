@@ -8,7 +8,7 @@ tags: [WALI,HUANUO,100DaysofHomeLab]
 
 # DAY 26
 
-Today was a "Retail Therapy" day. Purchased some 10 foot DisplayPort and HBMI cables for the new desk along with a [WALI Triple LCD Monitor Desk Mount](https://www.amazon.com/dp/B07GBL3PN3).  I will most likely keep the [HUANUO Dual Monitor Stand Mount](https://www.amazon.com/dp/B08CXJPQG9) for the work side of my desk and mount my 2 work monitors on it.
+Today was a Retail Therapy day. Purchased some 10 foot DisplayPort and HBMI cables for the new desk along with a [WALI Triple LCD Monitor Desk Mount](https://www.amazon.com/dp/B07GBL3PN3).  I will most likely keep the [HUANUO Dual Monitor Stand Mount](https://www.amazon.com/dp/B08CXJPQG9) for the work side of my desk and mount my 2 work monitors on it.
 
 * **[INPROGRESS]** Install 32gb RAM into the new r220.
 * **[INPROGRESS]** Install CPU into the new r220.

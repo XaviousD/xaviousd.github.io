@@ -3,7 +3,7 @@ layout: post
 title: 100 Days of Homelab [Day4]
 date: 2022-6-14 7:00:00 -500
 categories: [homelab,software]
-tags: [github,hyperionmedia.us,Jekyll,VSCode,100DaysofHomeLab]
+tags: [github,Jekyll,VSCode,hyperionmedia.us,100DaysofHomeLab]
 ---
 
 # DAY 4

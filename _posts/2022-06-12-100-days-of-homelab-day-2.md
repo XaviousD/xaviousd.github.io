@@ -3,7 +3,7 @@ layout: post
 title: 100 Days of Homelab [Day2]
 date: 2022-6-12 7:00:00 -500
 categories: [homelab,software]
-tags: [Windows Terminal,WSL,Ubuntu,ZSH,Oh My ZSH,yarn,NPM,NVM,NodeJS,VSCode,100DaysofHomeLab]
+tags: [Windows Terminal,WSL,Ubuntu,ZSH,Oh My ZSH,yarn,NPM,NVM,NodeJS,VSCodehyperionmedia.us,100DaysofHomeLab]
 ---
 
 # DAY 2

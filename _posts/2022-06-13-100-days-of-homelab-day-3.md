@@ -3,7 +3,7 @@ layout: post
 title: 100 Days of Homelab [Day3]
 date: 2022-6-13 7:00:00 -500
 categories: [homelab,software]
-tags: [github,CloudFlare,email,hyperionmedia.us,Jekyll,VSCode,100DaysofHomeLab]
+tags: [github,CloudFlare,email,Jekyll,VSCode,hyperionmedia.us,100DaysofHomeLab]
 ---
 
 # DAY 3

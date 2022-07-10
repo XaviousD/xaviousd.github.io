@@ -8,7 +8,7 @@ tags: [github,Jekyll,VSCode,ggreer,hyperionmedia.us,100DaysofHomeLab]
 
 # DAY 9
 
-Sunday Funday.  Didn\'t do much today, got all the systems backed up so another week in the books.  As far as other things on the list, yeah, lets just say, i\m a master procrastinator and leave it at that.
+Sunday Funday.  Didn\'t do much today, got all the systems backed up so another week in the books.  As far as other things on the list, yeah, lets just say, i\'m a master procrastinator and leave it at that.
 
 * **[COMPLETE]** * Its Sunday, time to run backups. *I do not have this automated yet*
 * **[INPROGRESS]** Fix the template issues causing the /vault/index.html file so its correct and not blanks.

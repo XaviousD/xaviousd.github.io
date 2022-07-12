@@ -8,7 +8,7 @@ tags: [Dell, ViewSonic, 100DaysofHomeLab]
 
 # DAY 28
 
-Well, seeing as my 60Hz monitor from Dell doesn't have a standard VESA mount, I decided to order 2 more monitors.  Went with the [ViewSonic XG2405 144Hz](https://www.ebay.com/itm/394052187558) from Ebay Refurbished.  These will mainly be my side monitors as My ASUS Gaming monitor will still be the primary.  
+Well, seeing as my 60Hz monitor from Dell doesn\'t have a standard VESA mount, I decided to order 2 more monitors.  Went with the [ViewSonic XG2405 144Hz](https://www.ebay.com/itm/394052187558) from Ebay Refurbished.  These will mainly be my side monitors as My ASUS Gaming monitor will still be the primary.  
 
 * **[INPROGRESS]** Install 32gb RAM into the new r220.
 * **[INPROGRESS]** Install CPU into the new r220.
